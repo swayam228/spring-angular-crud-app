@@ -20,6 +20,12 @@ spring-angular-crud-app/
 
 ---
 
+## 📷 Screenshots
+
+### 🔸 Home Page
+
+![Home Page](Screenshot 2025-05-12 021756.png)
+
 ## 🔧 How to Run the App
 
 ### 🖥️ Backend (Spring Boot)
