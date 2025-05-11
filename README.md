@@ -8,7 +8,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application built using
 
 - **Backend:** Java, Spring Boot, Spring Data JPA, MySQL
 - **Frontend:** Angular, Bootstrap
-- **Database:** MySQL
+- **Database:** Postgres
 
 ---
 
