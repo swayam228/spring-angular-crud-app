@@ -1,0 +1,25 @@
+```gitignore
+# Java
+target/
+*.class
+
+# Maven
+.mvn/
+!**/src/main/**
+!**/src/test/**
+
+# Logs
+*.log
+
+# Environment files
+*.env
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
