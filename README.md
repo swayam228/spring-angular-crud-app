@@ -78,9 +78,3 @@ dist/
 .idea/
 .vscode/
 .DS_Store
----
-## 📷 Screenshots
-
-### 🔸 Home Page
-
-![Home Page](Screenshot 2025-05-12 021756.png)
