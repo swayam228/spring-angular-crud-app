@@ -1,0 +1,38 @@
+<div class="container mt-4">
+    <div class="card">
+      <div class="card-header">
+        <h2>Edit Employee</h2>
+      </div>
+      <div class="card-body">
+        <form [formGroup]="employeeForm" (ngSubmit)="onSubmit()">
+          <div class="mb-3">
+            <label for="name">Name</label>
+            <input class="form-control" id="name" formControlName="name" />
+          </div>
+  
+          <div class="mb-3">
+            <label for="contact">Contact</label>
+            <input class="form-control" id="contact" formControlName="contact" />
+          </div>
+  
+          <div class="mb-3">
+            <label for="salary">Salary</label>
+            <input class="form-control" id="salary" formControlName="salary" />
+          </div>
+  
+          <div class="mb-3">
+            <label for="role">Role</label>
+            <input class="form-control" id="role" formControlName="role" />
+          </div>
+  
+          <div class="mb-3">
+            <label for="department">Department</label>
+            <input class="form-control" id="department" formControlName="department" />
+          </div>
+  
+          <button class="btn btn-success" type="submit">Update Employee</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  

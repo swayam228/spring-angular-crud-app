@@ -1,0 +1,7 @@
+.table th, .table td {
+    vertical-align: middle !important;
+  }
+  .card-header {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }  
